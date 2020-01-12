@@ -14,7 +14,7 @@ git clone https://github.com/harupy/kernel-profiling
 cd kernel-profiling
 
 # copy chromedriver
-cp /path/to/chromedriver .
+mv /path/to/chromedriver .
 
 # install pipenv (optional).
 pip install pipenv
